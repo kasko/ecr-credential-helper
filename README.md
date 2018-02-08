@@ -28,4 +28,5 @@ For license please check the [LICENSE](LICENSE) file.
 
 ## Links
 
+- https://github.com/awslabs/amazon-ecr-credential-helper
 - https://github.com/erinmcgill/docker-ecr-helper
